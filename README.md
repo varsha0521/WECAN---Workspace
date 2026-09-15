@@ -131,20 +131,20 @@ WECAN is intentionally built using **HTML, CSS, and Vanilla JavaScript** to demo
 
 ## 📂 Project Structure
 
-```text
-WECAN/
+```WECAN
+--html pages
 │
 ├── index.html
 ├── login.html
 ├── signup.html
 ├── workspace.html
 │
-├── css/
+├── css codings
 │   ├── style.css
 │   ├── landing.css
 │   └── workspace.css
 │
-├── js/
+├── js codings
 │   ├── main.js
 │   ├── workspace.js
 │   ├── tasks.js
@@ -153,7 +153,6 @@ WECAN/
 │   ├── search.js
 │   └── storage.js
 │
-├── assets/
 │   ├── fonts/
 │   ├── images/
 │   └── icons/
