@@ -167,7 +167,7 @@ WECAN is intentionally built using **HTML, CSS, and Vanilla JavaScript** to demo
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/varsha0521/WECAN---Workspace.git
 ```
 
 ### 2. Open the project
