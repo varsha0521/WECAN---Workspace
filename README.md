@@ -304,44 +304,9 @@ Possible future versions could include:
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of the major sections here.
-
-Recommended screenshots:
-
-* Landing Page
-* Workspace Dashboard
-* AI Assistant
-* Project Management
-* Kanban Board
-* Documents / Notes
-* Mobile Responsive View
-* Dark / Light Mode
-
-Example:
-
-```text
-screenshots/
-├── landing.png
-├── dashboard.png
-├── ai-assistant.png
-├── projects.png
-├── kanban.png
-└── mobile.png
-```
-
-Then add them to this README using:
-
-```markdown
-![WECAN Landing Page](screenshots/landing.png)
-```
-
----
-
 ## 🌐 Live Demo
 
-**Live Website:** Add your deployed website link here.
+**Live Website:** https://varsha0521.github.io/WECAN---Workspace/
 
 **GitHub Repository:** Add your repository link here.
 
@@ -349,7 +314,7 @@ Then add them to this README using:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Varshini.D**
 
 BTech Information Technology Student
 Frontend Developer | UI Developer | JavaScript Learner
